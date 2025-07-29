@@ -1,9 +1,8 @@
 ---
 date: 2025-07-30
 categories:
-  - Python
-  - Programming
-  - Tutorial
+  - Statistics
+  - Data Science
 authors:
   - jumashafara
 ---
